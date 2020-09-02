@@ -1,2 +1,2 @@
 # react-redux-docs-example
-Created with CodeSandbox
+https://redux.js.org/basics/example
